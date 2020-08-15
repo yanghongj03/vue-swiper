@@ -2,8 +2,8 @@
   "name": "@yanghongjun19/vue-swiper",
   "description": "Vue component with swiper",
   "author": "yangnhongjun19",
-  "version": "0.1.0",
-  "main": "dist/vue-swiper.min.js",
+  "version": "0.3.0",
+  "main": "dist/vue-swiper.common.js",
   "private": false,
   "licence": "MIT",
   "keywords": [
@@ -14,7 +14,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build:wc": "vue-cli-service build --target wc --name vue-swiper --dest dist  src/components/swiper/index.js"
+    "build:lib": "vue-cli-service build --target lib --name vue-swiper --dest dist  src/components/swiper/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",

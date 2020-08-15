@@ -11,8 +11,6 @@
 </template>
 
 <script>
-
-import {Swiper, SwiperItem} from './components/swiper/index'
 export default {
   name: 'App',
    data() {
@@ -23,12 +21,7 @@ export default {
         "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1597290767148&di=897a75b037b7a64c3202be22110a8832&imgtype=0&src=http%3A%2F%2Fp2.so.qhimgs1.com%2Ft01dfcbc38578dac4c2.jpg",
       ],
     };
-  },
-  components: {
-    Swiper,
-    SwiperItem
-  },
-  
+  }
 }
 </script>
 
