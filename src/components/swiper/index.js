@@ -7,6 +7,5 @@ Swiper.install = Vue => {
 }
 if (typeof window !== 'undefined' && window.Vue) {
   window.Vue.use(Swiper)
-  window.Vue.use(SwiperItem)
 }
 export default Swiper

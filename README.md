@@ -12,6 +12,11 @@ import swiper from '@yanghongjun19/vue-swiper';
 Vue.use(swiper);
 ```
 
+## 浏览器
+```javascript
+ <script src="./dist/vue-swiper.umd.js"></script>
+```
+
 In any Vue component:
 ```javascript
 <template>
