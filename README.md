@@ -9,7 +9,6 @@ npm i -S @yanghongjun19/vue-swiper
 In `main.js` of a Vue Project:
 ```javascript
 import swiper from '@yanghongjun19/vue-swiper';
-import css from '@yanghongjun19/vue-swiper/dist/vue-swiper.css';
 Vue.use(swiper);
 ```
 

@@ -2,7 +2,7 @@
   "name": "@yanghongjun19/vue-swiper",
   "description": "Vue component with swiper",
   "author": "yangnhongjun19",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "main": "dist/vue-swiper.common.js",
   "private": false,
   "licence": "MIT",
